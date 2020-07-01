@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="danisa"
+          fetch="https://github.com/danisapyl" />
+
+  <!-- Danisa Repos -->
+  <project path="vendor/lge" name="proprietary_vendor_lge-1" remote="danisa" revision="lineage-15.1" />
+
+</manifest>
